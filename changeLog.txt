@@ -3,4 +3,6 @@ v0.2 add c1 GO; a3 visual fn;
 v0.3 redo recluster b2; b2_ADV cellPhoneDB, CellChat; b12: slingshot; 
 v0.4 a4 scanpy py demo;
 v0.5 add R_plot_base/image_heatmap_nature2020.R.ipynb
+v0.6 add weixin URL
+
 
