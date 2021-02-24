@@ -6,6 +6,8 @@ https://support.10xgenomics.com/single-cell-gene-expression/datasets
 https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247496154&idx=3&sn=d3cfaa4a5b18235e0192619f64641635
 SCENIC: https://mp.weixin.qq.com/s?__biz=MzI1Njk4ODE0MQ==&mid=2247488383&idx=1&sn=7b8504ed4449df3a707d1c83ec0b0a7a
 
+https://data.humancellatlas.org/
+
 (3) 目录结构
 scripts_.R_or_Py
 backup/
@@ -13,6 +15,11 @@ backup/
  |-a2/
  |-a3/
 
+可视化实例:
+R_plot_base/image_heatmap_nature2020.R.ipynb
+
+
+(4)
 init code:
 
 setwd("/data/wangjl/scScripts/")
