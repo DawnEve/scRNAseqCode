@@ -15,8 +15,11 @@ backup/
  |-a2/
  |-a3/
 
-可视化实例:
-R_plot_base/image_heatmap_nature2020.R.ipynb
+可视化实例: fnName_figureName.R.ipynb
+R_plot_base/
+ |-image_heatmap_nature2020.R.ipynb
+ |-polygon_density_plot.R.ipynb
+
 
 
 (4)
@@ -34,6 +37,7 @@ outputRoot
 
 Sys.time() #"2021-02-20 10:52:38 CST"
 
+options(repr.plot.width=12.5, repr.plot.height=5.5) #控制长宽比，和pdf的类似
 
 
 2. 开始
@@ -48,6 +52,7 @@ store: ./backup/
 
 ## 基本分析：聚类、分群
 a1: Seurat;
+a1_2: Azimuth server;
 a2: Seurat recluster; redo v2;
 a3: Seurat 可视化
 a4: Scanpy – Single-Cell Analysis in Python
