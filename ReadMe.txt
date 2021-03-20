@@ -20,6 +20,8 @@ R_plot_base/
  |-image_heatmap_nature2020.R.ipynb
  |-polygon_density_plot.R.ipynb
 
+ |- R_base_color.R.ipynb R中的颜色
+ |- R_base_plot.R.ipynb R基础绘图
 
 
 (4)
